@@ -64,5 +64,8 @@
   "tags": [
     "debug"
   ],
-  "version": "2.0.0-pre-I0Z7U9OV"
+  "version": "2.0.0-pre-I0Z7U9OV",
+  "scripts": {
+    "start": "node weinre"
+  }
 }
